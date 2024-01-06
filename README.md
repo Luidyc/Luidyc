@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://gifdb.com/images/high/baby-yoda-with-lightsaber-animation-hy7cfd6wkfctsgzt.gif"  />
-</div>
 
 ###
 
