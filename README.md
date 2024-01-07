@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem de Programação e ferramentas</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  Meu Status :</h3>
 
 ###
 
