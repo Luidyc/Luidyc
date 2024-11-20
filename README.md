@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Eu sou Luidy Carvalho (@Luidyc), desenvolvedor beck-end !<br><br>- 📚 Estou aprendendo Java, Micro Serviços e DevOps.<br>🔭 Estou em busca do meu primeiro emprego com Software development.<br>- ⚡No meu tempo livre ? Gosto de vê séries, aprender inglês e jogar.</p>
+<p align="left">Eu sou Luidy Carvalho (@Luidyc), desenvolvedor back-end !<br><br>- 📚 Estou aprendendo Java, Angular, Micro Serviços e DevOps.<br>🔭 Estou em busca do meu primeiro emprego com Software development.<br>- ⚡No meu tempo livre ? Gosto de vê séries, aprender inglês e jogar.</p>
 
 ###
 
@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
